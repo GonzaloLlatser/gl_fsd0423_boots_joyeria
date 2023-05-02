@@ -1,38 +1,34 @@
 
 .col1{
-    /* height: 20em; */
-    /* background-image: url(/img/joyas4.png); */
-    background-color: rgb(29, 106, 106);
-    background-repeat:no-repeat; background-size: 30em
-
-     
+    height: 20em;
+    background-image: url(/img/int4.jpg); 
+    background-position: center; 
 }
 
 .col2{
-   
-    /* background-image: url(/img/joyas3.png); */
-    background-repeat: no-repeat; background-size: 59em;
-    background-color: blue;
+    height: 20em;
+    background-image: url(/img/joyas1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
 }
 
 .col3{
-    /* height: 19em; */
-    /* background-image: url(/img/joyas2.png); */
-    background-repeat:no-repeat; background-size: 50em;
-    background-position: -12em;
-    background-color: brown;
-
+    height: 19em;
+    background-image: url(/img/joyas5.png);
+    background-repeat:no-repeat; 
+    background-position: center;
+    background-size: 100%;
 }
+
 .col4{
-    /* background-image: url(/img/joyas1.jpg); */
-     background-repeat: no-repeat; background-size: 50em;
-     background-color: chartreuse;
+    height: 20em;
+    background-image: url(/img/joyas2.png);
+     background-repeat: no-repeat;
+     background-position: center;
 }
 
 .col5{
-    
-    /* background-image: url(/img/joyas5.png); */
-     background-repeat: no-repeat;
-     background-size: 30em;
-     background-color: rgb(240, 78, 14);
+    height: 20em;
+    background-image: url(/img/int4.jpg);
+    background-repeat: no-repeat;
 }
